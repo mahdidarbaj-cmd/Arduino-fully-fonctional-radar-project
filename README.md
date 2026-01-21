@@ -1,2 +1,17 @@
-# Arduino-fully-fonctional-radar-project
-Hi, this is the code for my Aduino fully working radar project that i've made recently. I involved a display and some other components such as buzzer and
+# Arduino project
+student: Mahdi Darbaj
+project: radar system(without the processing monitor)
+
+# Hardware used
+-Arduino Uno
+-servo motor
+-buzzer
+-jumpwires
+-button
+-lcd display
+-ultrasonic sensor
+
+# How to run
+1.Open the ".ino" file in Arduino IDE
+2. Select board: Arduino Uno
+3.Upload the code
