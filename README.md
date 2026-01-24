@@ -38,16 +38,26 @@ USB cable
 
 
 Pin Connections (you can use whatever pin you wnat but remember to adjust the code to match the pins you choosed)
+
 |Component|	    |Arduino Pin|
-HC-SR04 Trig	   Digital pin
-HC-SR04 Echo	   Digital pin
-Servo Signal	   Digital pin
-VCC	             5V
-GND            	 GND
-LCD SDA          Analog pin
-LCD SCL          Analog pin
-Buzzer           Digital pin
-Button           Digital pin
+
+|HC-SR04 Trig|	  | Digital pin|
+
+|HC-SR04 Echo|	 |Digital pin|
+
+|Servo Signal|	   |Digital pin|
+
+|VCC	       |     |5V|
+
+|GND         | 	   |GND|
+
+|LCD SDA     |     |Analog pin|
+
+|LCD SCL     |     |Analog pin|
+
+|Buzzer      |     |Digital pin|
+
+|Button      |     |Digital pin|
 
 ⚙️ How It Works
 
@@ -86,6 +96,7 @@ Upload the code
 Open the Serial Monitor (or radar GUI)
 
 📸 Demo
+
 <img width="405" height="435" alt="Screenshot 2026-01-24 130152" src="https://github.com/user-attachments/assets/f7874dc7-b111-496b-8347-8408c863fc37" />
 
 
@@ -104,6 +115,7 @@ Higher accuracy filtering
 🤝 Contributing
 
 Contributions are welcome!
+
 Feel free to fork the project, open issues, or submit pull requests.
 
 📜 License
@@ -113,4 +125,5 @@ This project is licensed under the MIT License — feel free to use, modify, and
 👤 Author
 
 Mahdi darbaj
+
 GitHub: @Mahdi
