@@ -37,7 +37,11 @@ USB cable
 
 
 
-Pin Connections (you can use whatever pin you wnat but remember to adjust the code to match the pins you choosed)
+
+
+
+
+Pin Connections (you can use whatever pin you want but remember to adjust the code to match the pins you choosed)
 
 |Component|	    |Arduino Pin|
 
