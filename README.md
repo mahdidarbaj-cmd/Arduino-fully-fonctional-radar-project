@@ -120,7 +120,7 @@ Feel free to fork the project, open issues, or submit pull requests.
 
 📜 License
 
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
+This project is currently not licensed. All rights are reserved by the author.
 
 👤 Author
 
